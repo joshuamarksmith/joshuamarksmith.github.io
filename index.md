@@ -1,5 +1,3 @@
-## Joshua M. Smith
-
 I'm a Solutions Architect at AWS, where I help customers run and build platforms on the world's largest public cloud. I focus on Serverless technologies, helping enterprise startups operate efficiently.
 
 Prior to AWS, I spent 9 years across various federal contracts, consulting engagements, and more, working in infrastructure engineering and cloud security architecture.
